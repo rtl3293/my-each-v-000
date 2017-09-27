@@ -8,4 +8,4 @@ def my_each(array) # put argument(s) here
 end
 
 collection = [1,2,3,4]
-my_each(collection) {|a| puts }
+my_each(collection) {|a| puts collection|a|}
