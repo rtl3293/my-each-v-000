@@ -7,4 +7,5 @@ def my_each(array) # put argument(s) here
   end
 end
 
-my_each([1,2,3,4]) {|a| puts a[i]}
+collection = [1,2,3,4]
+my_each(collection) {|a| puts }
